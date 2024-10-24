@@ -1,0 +1,7 @@
+fichiers a votre disposition :
+- recopier ces fichiers dans votre dossier de travail
+- renommer ces fichiers en supprimant "_ACompleter" de leur nom mais en conservant l'extension
+- fabriquer et lancer l'executable avant toute modification du code source
+
+
+
